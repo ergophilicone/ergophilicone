@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ergophilicone AKA Faisal
-- 👀 I’m interested in Data Science | Machine Learning | Adnroid Development | Web Development | Mathematics
+- 👀 I’m interested in Data Science | Machine Learning | Android Development | Web Development | Mathematics
 - 🌱 I’m currently learning Python | Advance Python | Statistics, Probability, Calculus | Data Science and Machine Learning
 - 📫 Reach me out theergophilicone@proton,me
 
