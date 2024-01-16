@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ergophilicone AKA Faisal
 - 👀 I’m interested in Data Science | Machine Learning | Android Development | Web Development | Mathematics
 - 🌱 I’m currently learning Python | Advance Python | Statistics, Probability, Calculus | Data Science and Machine Learning
-- 📫 Reach me out theergophilicone@proton,me
+- 📫 Reach me out theergophilicone@proto.me
 
 <!---
 ergophilicone/ergophilicone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
