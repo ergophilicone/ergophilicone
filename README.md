@@ -10,18 +10,13 @@ I'm an instrumentation engineer with a passion for data science. Currently worki
 - **Tools:** Git, Jupyter
 
 ## 🔭 Current Projects
-- https://github.com/ergophilicone/Expense-tracker-CLI-Program[Project 1 Name and Link]
-- [Project 2 Name and Link]
-- [Project 3 Name and Link]
+- [Expense Tracker CLI Version https://github.com/ergophilicone/Expense-tracker-CLI-Program]
 
 ## 🌱 I’m currently learning
 - Machine Learning algorithms and models
-- [Any other specific area of focus]
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [Your Twitter Handle]
-- Portfolio: [Your Portfolio/Website]
+- LinkedIn: [(https://www.linkedin.com/in/md-faisal-707b352aa/)]
 
 ## 💬 Let's Chat
 Feel free to reach out if you share similar interests, have project ideas, or just want to connect!
