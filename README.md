@@ -7,10 +7,11 @@ I'm an instrumentation engineer with a passion for data science. Currently worki
 - **Programming Languages:** Python
 - **Data Science:** Pandas, NumPy, Scikit-Learn, TensorFlow
 - **Database:** SQL
-- **Tools:** Git, Jupyter
+- **Tools:** Git, Github, Jupyter
 
 ## Certifications 
 - **Intro to Programming:** Kaggle [https://www.kaggle.com/learn/certification/theergophilicone/intro-to-programming]
+- **Python:** Kaggle [https://www.kaggle.com/learn/certification/theergophilicone/python]
 
 ## 🔭 Current Projects
 - Expense Tracker CLI Version [https://github.com/ergophilicone/Expense-tracker-CLI-Program]
