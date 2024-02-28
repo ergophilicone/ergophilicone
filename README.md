@@ -12,6 +12,7 @@ I'm an instrumentation engineer with a passion for data science. Currently worki
 ## Certifications 
 - **Intro to Programming:** Kaggle [https://www.kaggle.com/learn/certification/theergophilicone/intro-to-programming]
 - **Python:** Kaggle [https://www.kaggle.com/learn/certification/theergophilicone/python]
+- **Intro to Machine Learning:** Kaggle [https://www.kaggle.com/learn/certification/theergophilicone/intro-to-machine-learning]
 
 ## 🔭 Current Projects
 - Expense Tracker CLI Version [https://github.com/ergophilicone/Expense-tracker-CLI-Program]
