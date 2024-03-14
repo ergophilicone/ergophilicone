@@ -9,11 +9,6 @@ I'm an instrumentation engineer with a passion for data science. Currently worki
 - **Database:** SQL
 - **Tools:** Git, Github, Jupyter
 
-## Data Science & Machine Learning
-- **Introduction To Programming:** [https://github.com/ergophilicone/Introduction-To-Programming-Python]
-- **Python:** [https://github.com/ergophilicone/Python]
-- **Introduction To Machine Learning:** [https://github.com/ergophilicone/Introduction-To-Machine-Learning]
-
 ## Certifications 
 - **Intro to Programming:** Kaggle [https://www.kaggle.com/learn/certification/theergophilicone/intro-to-programming]
 - **Python:** Kaggle [https://www.kaggle.com/learn/certification/theergophilicone/python]
